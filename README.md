@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Kalani Castell-Moody 👋
 
-<!--
-**castellk4691/castellk4691** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About me:
+Currently CSC-113 AI fundamentals and learning to collaborate with AI tools!
 
-Here are some ideas to get you started:
+My Foo:
+I'm really into music, especially Michael Jackson and the Kpop genre.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently Learning:
+- AI collaboration and prompt engineering
+- GitHub workflows and version control
+- Building my first AI assistants
+
+Fun Fact:
+I sing covers of my favorite songs!
+
+Find Me:
+- 📫 Right here on GitHub!
